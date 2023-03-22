@@ -1,0 +1,17 @@
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\bin\Debug\net6.0\SimpleCollab.Services.deps.json
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\bin\Debug\net6.0\SimpleCollab.Services.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\bin\Debug\net6.0\SimpleCollab.Services.pdb
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\bin\Debug\net6.0\SimpleCollab.Data.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\bin\Debug\net6.0\SimpleCollab.Models.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\bin\Debug\net6.0\SimpleCollab.Data.pdb
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\bin\Debug\net6.0\SimpleCollab.Models.pdb
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\obj\Debug\net6.0\SimpleCollab.Services.csproj.AssemblyReference.cache
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\obj\Debug\net6.0\SimpleCollab.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\obj\Debug\net6.0\SimpleCollab.Services.AssemblyInfoInputs.cache
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\obj\Debug\net6.0\SimpleCollab.Services.AssemblyInfo.cs
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\obj\Debug\net6.0\SimpleCollab.Services.csproj.CoreCompileInputs.cache
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\obj\Debug\net6.0\SimpleCollab.Services.csproj.CopyComplete
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\obj\Debug\net6.0\SimpleCollab.Services.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\obj\Debug\net6.0\refint\SimpleCollab.Services.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\obj\Debug\net6.0\SimpleCollab.Services.pdb
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Services\obj\Debug\net6.0\ref\SimpleCollab.Services.dll
