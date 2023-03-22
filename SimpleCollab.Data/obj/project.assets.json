@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SimpleCollab.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SimpleCollab.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleCollab.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleCollab.Models/1.0.0": {
+      "type": "project",
+      "path": "../SimpleCollab.Models/SimpleCollab.Models.csproj",
+      "msbuildProject": "../SimpleCollab.Models/SimpleCollab.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SimpleCollab.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\KELLYNCODES\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\KELLYNCODES\\source\\repos\\SimpleCollabAPIProject\\SimpleCollab.Data\\SimpleCollab.Data.csproj",
+      "projectName": "SimpleCollab.Data",
+      "projectPath": "C:\\Users\\KELLYNCODES\\source\\repos\\SimpleCollabAPIProject\\SimpleCollab.Data\\SimpleCollab.Data.csproj",
+      "packagesPath": "C:\\Users\\KELLYNCODES\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KELLYNCODES\\source\\repos\\SimpleCollabAPIProject\\SimpleCollab.Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\KELLYNCODES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\KELLYNCODES\\source\\repos\\SimpleCollabAPIProject\\SimpleCollab.Models\\SimpleCollab.Models.csproj": {
+              "projectPath": "C:\\Users\\KELLYNCODES\\source\\repos\\SimpleCollabAPIProject\\SimpleCollab.Models\\SimpleCollab.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
