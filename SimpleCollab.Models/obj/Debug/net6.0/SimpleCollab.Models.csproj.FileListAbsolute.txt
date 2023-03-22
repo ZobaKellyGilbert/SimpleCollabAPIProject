@@ -1,0 +1,12 @@
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\bin\Debug\net6.0\SimpleCollab.Models.deps.json
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\bin\Debug\net6.0\SimpleCollab.Models.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\bin\Debug\net6.0\SimpleCollab.Models.pdb
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\obj\Debug\net6.0\SimpleCollab.Models.csproj.AssemblyReference.cache
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\obj\Debug\net6.0\SimpleCollab.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\obj\Debug\net6.0\SimpleCollab.Models.AssemblyInfoInputs.cache
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\obj\Debug\net6.0\SimpleCollab.Models.AssemblyInfo.cs
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\obj\Debug\net6.0\SimpleCollab.Models.csproj.CoreCompileInputs.cache
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\obj\Debug\net6.0\SimpleCollab.Models.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\obj\Debug\net6.0\refint\SimpleCollab.Models.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\obj\Debug\net6.0\SimpleCollab.Models.pdb
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Models\obj\Debug\net6.0\ref\SimpleCollab.Models.dll

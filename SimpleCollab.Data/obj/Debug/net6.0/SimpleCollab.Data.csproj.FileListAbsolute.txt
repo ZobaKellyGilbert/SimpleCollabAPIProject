@@ -1,0 +1,17 @@
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\bin\Debug\net6.0\SimpleCollab.Data.deps.json
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\bin\Debug\net6.0\SimpleCollab.Data.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\bin\Debug\net6.0\SimpleCollab.Data.pdb
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\bin\Debug\net6.0\SimpleCollab.Models.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\bin\Debug\net6.0\SimpleCollab.Models.pdb
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\obj\Debug\net6.0\SimpleCollab.Data.csproj.AssemblyReference.cache
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\obj\Debug\net6.0\SimpleCollab.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\obj\Debug\net6.0\SimpleCollab.Data.AssemblyInfoInputs.cache
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\obj\Debug\net6.0\SimpleCollab.Data.AssemblyInfo.cs
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\obj\Debug\net6.0\SimpleCollab.Data.csproj.CoreCompileInputs.cache
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\obj\Debug\net6.0\SimpleCollab.Data.csproj.CopyComplete
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\obj\Debug\net6.0\SimpleCollab.Data.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\obj\Debug\net6.0\refint\SimpleCollab.Data.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\obj\Debug\net6.0\SimpleCollab.Data.pdb
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\obj\Debug\net6.0\ref\SimpleCollab.Data.dll
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\bin\Debug\net6.0\SimpleCollab.Data.runtimeconfig.json
+C:\Users\KELLYNCODES\source\repos\SimpleCollabAPIProject\SimpleCollab.Data\obj\Debug\net6.0\SimpleCollab.Data.genruntimeconfig.cache
